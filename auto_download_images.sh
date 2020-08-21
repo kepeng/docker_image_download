@@ -15,7 +15,7 @@ do
   echo -e ">>>>>>>>>>>>>>>>>开始提交代码，下载镜像为: "${image}"\n"
   git add .
   git commit -m "add images '${image}'"
-  git tag release-v${gen_image}
+  git tag release-v${image_version}
   git push --tags
   echo -e ">>>>>>>>>>>>>>>>>提交代码成功!\n"
   echo "等待120S"
