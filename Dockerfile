@@ -1,1 +1,1 @@
-From gcr.io/ml-pipeline/ml-pipeline-dataflow-tf-predict:6ad2601ec7d04e842c212c50d5c78e548e12ddea
+From gcr.io/arrikto-public/tensorflow-1.14.0-notebook-cpu:kubecon-workshop
