@@ -21,7 +21,6 @@ do
   echo "等待120S"
   sleep 2m
   echo "开始下载镜像到本地"
-  docker login --username=583939733@qq.com registry.cn-hangzhou.aliyuncs.com
   docker docker pull registry.cn-hangzhou.aliyuncs.com/kp_gcr_io/image:${image_version}
   echo "上传镜像到本地私库"
   docker tag registry.cn-hangzhou.aliyuncs.com/kp_gcr_io/image:${image_version} ${image}
