@@ -24,5 +24,5 @@ do
   docker pull registry.cn-hangzhou.aliyuncs.com/kp_gcr_io/image:${image_version}
   echo "上传镜像到本地私库"
   docker tag registry.cn-hangzhou.aliyuncs.com/kp_gcr_io/image:${image_version} ${upload_image}
-  docker rmi registry.cn-hangzhou.aliyuncs.com/kp_gcr_io/image:${upload_image}
+  docker rmi registry.cn-hangzhou.aliyuncs.com/kp_gcr_io/image:${image_version}
 done
