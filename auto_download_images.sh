@@ -1,4 +1,4 @@
-docker login --username=583939733@qq.com registry.cn-hangzhou.aliyuncs.com
+#docker login --username=583939733@qq.com registry.cn-hangzhou.aliyuncs.com
 for image in `cat ./images_list.txt`
 do
   echo "begin download $image"
@@ -8,7 +8,7 @@ do
   image_version=${tmp_image//[\/:]/-}
   echo image
 #  git checkout .
-#  git pull
+#  git pull --force
 #  echo "From ${image}" > Dockerfile
 #  echo ">>>>>>>>>>>>>>>>>Dockerfile 已经变为 :" cat Dockerfile
 #  echo -e ">>>>>>>>>>>>>>>>>开始提交代码，下载镜像为: "${image}"\n"
