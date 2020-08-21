@@ -1,1 +1,1 @@
-From gcr.io/ml-pipeline/ml-pipeline-local-roc:5df2cdc1ed145320204e8bc73b59cdbd7b3da28f
+From gcr.io/arrikto-public/kubeflow/volumes-viewer:v14.3.0-12-g79d7536b
