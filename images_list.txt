@@ -1,11 +1,1 @@
 gcr.io/ml-pipeline/ml-pipeline-kubeflow-deployer:727c48c690c081b505c1f0979d11930bf1ef07c0
-gcr.io/istio-release/kubectl:release-1.3-latest-daily
-gcr.io/ml-pipeline/ml-pipeline-dataflow-tft:6ad2601ec7d04e842c212c50d5c78e548e12ddea
-gcr.io/ml-pipeline/ml-pipeline-dataflow-tf-predict:6ad2601ec7d04e842c212c50d5c78e548e12ddea
-gcr.io/arrikto-public/tensorflow-1.14.0-notebook-cpu:kubecon-workshop
-gcr.io/ml-pipeline/ml-pipeline-kubeflow-tf-trainer:5df2cdc1ed145320204e8bc73b59cdbd7b3da28f
-gcr.io/ml-pipeline/ml-pipeline-local-roc:5df2cdc1ed145320204e8bc73b59cdbd7b3da28f
-gcr.io/arrikto-public/kubeflow/volumes-viewer:v14.3.0-12-g79d7536b
-gcr.io/ml-pipeline/ml-pipeline-dataflow-tfma:6ad2601ec7d04e842c212c50d5c78e548e12ddea
-gcr.io/ml-pipeline/ml-pipeline-local-confusion-matrix:5df2cdc1ed145320204e8bc73b59cdbd7b3da28f
-gcr.io/ml-pipeline/ml-pipeline-dataflow-tfdv:6ad2601ec7d04e842c212c50d5c78e548e12ddea
