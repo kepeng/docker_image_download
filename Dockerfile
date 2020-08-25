@@ -1,1 +1,1 @@
-From gcr.io/kubeflow-images-public/ingress-setup:latest
+From gcr.io/kubebuilder/kube-rbac-proxy:v0.4.0
