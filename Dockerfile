@@ -1,1 +1,1 @@
-From gcr.io/$(project)/application-controller:latest
+From gcr.io/ml-pipeline/api-server

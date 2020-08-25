@@ -1,0 +1,8 @@
+begin download gcr.io/ml-pipeline/api-server
+ml-pipeline/api-server
+harbor.chargerhere.net/gcr.io/ml-pipeline/api-server
+ml-pipeline-api-server
+Already up-to-date.
+>>>>>>>>>>>>>>>>>Dockerfile 已经变为 : cat Dockerfile
+>>>>>>>>>>>>>>>>>开始提交代码，下载镜像为: gcr.io/ml-pipeline/api-server
+
