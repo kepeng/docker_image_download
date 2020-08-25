@@ -1,1 +1,1 @@
-From gcr.io/kubeflow-images-public/metadata:v0.1.11
+From gcr.io/tfx-oss-public/ml_metadata_store_server:v0.21.1
