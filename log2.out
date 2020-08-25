@@ -1,0 +1,9 @@
+nohup: ignoring input
+begin download gcr.io/kubeflow-images-public/ingress-setup:latest
+kubeflow-images-public/ingress-setup:latest
+harbor.chargerhere.net/gcr.io/kubeflow-images-public/ingress-setup:latest
+kubeflow-images-public-ingress-setup-latest
+Already up-to-date.
+>>>>>>>>>>>>>>>>>Dockerfile 已经变为 : cat Dockerfile
+>>>>>>>>>>>>>>>>>开始提交代码，下载镜像为: gcr.io/kubeflow-images-public/ingress-setup:latest
+
