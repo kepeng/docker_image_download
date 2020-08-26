@@ -1,1 +1,1 @@
-From gcr.io/spark-operator/spark-operator:v1beta2-1.0.0-2.4.4
+From gcr.io/google_containers/spartakus-amd64:v1.1.0
