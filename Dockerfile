@@ -1,1 +1,1 @@
-From gcr.io/kubeflow-images-public/kfam:v20190612-v0-170-ga06cdb79-dirty-a33ee4
+From gcr.io/kubeflow-images-public/pytorch-operator:v0.6.0-18-g5e36a57
