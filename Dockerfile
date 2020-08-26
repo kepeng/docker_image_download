@@ -1,1 +1,1 @@
-From gcr.io/knative-releases/knative.dev/serving/cmd/autoscaler
+From gcr.io/knative-releases/knative.dev/serving/cmd/networking/istio
