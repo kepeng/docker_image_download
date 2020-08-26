@@ -1,1 +1,1 @@
-From gcr.io/knative-releases/knative.dev/serving/cmd/queue
+From gcr.io/ml-pipeline/persistenceagent
