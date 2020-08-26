@@ -1,8 +1,1 @@
-gcr.io/kubeflow-images-public/kubernetes-sigs/application
-gcr.io/spark-operator/spark-operator:v1beta2-1.0.0-2.4.4
-gcr.io/kubeflow-images-public/admission-webhook:v20190520-v0-139-gcee39dbc-dirty-0d8f4c
-gcr.io/kubeflow-images-public/pytorch-operator:v0.6.0-18-g5e36a57
-gcr.io/ml-pipeline/scheduledworkflow
-gcr.io/ml-pipeline/frontend
-gcr.io/ml-pipeline/visualization-server
-gcr.io/ml-pipeline/persistenceagent
+gcr.io/k8s-minikube/kicbase:v0.0.11
