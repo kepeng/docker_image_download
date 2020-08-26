@@ -1,1 +1,1 @@
-From gcr.io/ml-pipeline/persistenceagent
+From gcr.io/ml-pipeline/visualization-server
