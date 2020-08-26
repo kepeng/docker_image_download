@@ -1,1 +1,1 @@
-From gcr.io/kubeflow-images-public/ingress-setup:latest
+From gcr.io/ml-pipeline/api-server
