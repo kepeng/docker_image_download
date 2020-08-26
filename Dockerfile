@@ -1,1 +1,1 @@
-From gcr.io/kubeflow-images-public/admission-webhook:v20190520-v0-139-gcee39dbc-dirty-0d8f4c
+From gcr.io/kubeflow-images-public/pytorch-operator:v0.6.0-18-g5e36a57
