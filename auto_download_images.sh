@@ -6,7 +6,7 @@ do
   upload_image=harbor.chargerhere.net/gcr.io/${tmp_image}
   echo ${tmp_image}
   echo ${upload_image}
-  image_version=${tmp_image//[\:\/]/-}
+  image_version=${tmp_image//[\:\/]/-}_retry01
   echo ${image_version}
   git checkout .
   git pull --force
