@@ -1,1 +1,1 @@
-From gcr.io/ml-pipeline/visualization-server
+From gcr.io/ml-pipeline/frontend
