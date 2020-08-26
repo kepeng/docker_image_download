@@ -1,1 +1,1 @@
-From gcr.io/kubeflow-images-public/kubernetes-sigs/application
+From gcr.io/kubeflow-images-public/centraldashboard
