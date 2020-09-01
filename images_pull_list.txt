@@ -1,2 +1,1 @@
-gcr.io/knative-releases/knative.dev/serving/cmd/controller
-gcr.io/knative-releases/knative.dev/serving/cmd/queue
+gcr.io/arrikto/jupyter-kale:v0.5.0-47-g2427cc9
