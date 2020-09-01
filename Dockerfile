@@ -1,1 +1,1 @@
-From gcr.io/arrikto/jupyter-kale:v0.5.0-47-g2427cc9
+From gcr.io/arrikto-public/tensorflow-1.14.0-notebook-cpu:kubecon-workshop
