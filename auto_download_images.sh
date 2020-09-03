@@ -18,8 +18,8 @@ do
   git tag release-v${image_version}
   git push --tags
   echo -e ">>>>>>>>>>>>>>>>>提交代码成功!\n"
-  echo "等待360S"
-  sleep 6m
+  echo "等待60S"
+  sleep 1m
   echo "开始下载镜像到本地"
   docker pull registry.cn-hangzhou.aliyuncs.com/kp_gcr_io/image:${image_version}
   echo "上传镜像到本地私库"
