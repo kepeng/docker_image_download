@@ -1,1 +1,1 @@
-From gcr.io/kubeflow-images-public/notebook-controller:v1.0.0-gcd65ce25
+From gcr.io/kubeflow-images-public/kfam:v1.0.0-gf3e09203
