@@ -1,1 +1,1 @@
-From gcr.io/kubeflow-images-public/admission-webhook:v1.0.0-gaf96e4e3
+From gcr.io/kubeflow-images-public/kubernetes-sigs/application:1.0-beta
