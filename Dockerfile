@@ -1,1 +1,1 @@
-From gcr.io/kubeflow-images-public/centraldashboard:v1.0.0-g3ec0de71
+From gcr.io/kubeflow-images-public/admission-webhook:v1.0.0-gaf96e4e3
