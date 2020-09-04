@@ -1,1 +1,1 @@
-From gcr.io/k8s-minikube/kicbase:v0.0.11
+From gcr.io/kubeflow-images-public/centraldashboard:v1.0.0-g3ec0de71
