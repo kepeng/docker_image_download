@@ -1,1 +1,1 @@
-From gcr.io/ml-pipeline/api-server:0.2.5
+From gcr.io/ml-pipeline/visualization-server:0.2.5
