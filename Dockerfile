@@ -1,1 +1,1 @@
-From gcr.io/kubeflow-images-public/katib/v1alpha3/katib-ui:v0.8.0
+From gcr.io/kubebuilder/kube-rbac-proxy:v0.4.0
