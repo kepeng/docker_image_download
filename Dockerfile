@@ -1,1 +1,1 @@
-From gcr.io/ml-pipeline/envoy:metadata-grpc
+From gcr.io/ml-pipeline/api-server:0.2.5
