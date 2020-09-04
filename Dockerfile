@@ -1,1 +1,1 @@
-From gcr.io/kubeflow-images-public/kubernetes-sigs/application:1.0-beta
+From gcr.io/kubeflow-images-public/jupyter-web-app:v1.0.0-g2bd63238
