@@ -1,1 +1,1 @@
-From gcr.io/ml-pipeline/viewer-crd-controller:0.2.5
+From gcr.io/kubeflow-images-public/notebook-controller:v1.0.0-gcd65ce25
