@@ -1,1 +1,1 @@
-From gcr.io/kubeflow-images-public/katib/v1alpha3/katib-controller:v0.8.0
+From gcr.io/kubeflow-images-public/admission-webhook:v1.0.0-gaf96e4e3
